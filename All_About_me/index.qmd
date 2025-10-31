@@ -3,7 +3,9 @@
 ![About Me](foto-Rafa.png){width=150 height=200}
 
 Selamat datang
-## **Haloo! **
+
+  
+**Haloo! **
 Perkenalkan, nama saya **Rafa Abdussalam Danadyaksa** biasa dipanggil **Rafa**. Saya adalah seorang mahasiswa jursan **Teknik Informatika** yang memiliki minat besar pada dunia **teknologi, pengembangan sistem, dan pembelajaran manusia**.  Bagi saya, belajar bukan sekadar mengejar nilai, tetapi sebuah perjalanan untuk mengenal diri sendiri — tentang bagaimana saya berpikir, bekerja, gagal, dan bangkit lagi.  Setiap baris kode, setiap kesalahan, dan setiap proses refleksi telah membantu saya memahami siapa saya dan apa nilai yang ingin saya bawa ke dunia ini.
 
 ### **1. Seni Memberi Makna: Kekuatan Super Anda dalam Bernalar**
