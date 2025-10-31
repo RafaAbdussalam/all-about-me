@@ -1,6 +1,6 @@
 # UTS-1 All About Me
 
-![About Me](foto-Rafa.png){width=100%}
+![About Me](foto-Rafa.png){width=150 height=200}
 
 Selamat datang
 ## **Haloo! **
