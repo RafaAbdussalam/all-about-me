@@ -79,5 +79,5 @@ dan refleksi, namun semua itu diperkaya oleh pelajaran yang didapat dari kegagal
 | **S – Strengths** | Memiliki empati tinggi, ketekunan dalam menyelesaikan masalah, dan kemampuan berpikir strategis yang membantu melihat gambaran besar sekaligus detail teknis. | Membimbing teman memahami proyek web; membuat struktur sistem agar tim mudah bekerja; memperbaiki alur GitHub agar efisien. |  
 | **H – Heart** | Dorongan utama saya adalah menghadirkan manfaat melalui teknologi, membantu orang lain tumbuh, dan menciptakan sistem yang mempermudah hidup atau pembelajaran. | Mengembangkan sistem web yang bermanfaat (book review, pembelajaran digital). |  
 | **A – Abilities (Skills)** | Menguasai pemrograman (Python, Web, Mobile), memiliki kemampuan komunikasi dan problem solving yang kuat, serta mampu beradaptasi dengan cepat terhadap perubahan. | Membuat website dari nol, mengelola database, melakukan debugging dan optimasi sistem. |  
-| **P – Personality** | Analitis dan kolaboratif. |  |  
+| **P – Personality** | Analitis dan kolaboratif. | berkerja dengan tim dan memberikan lingkungan yang kolaboratif |  
 | **E – Experiences** | Pengalaman kegagalan dan tantangan membentuk ketahanan, kedewasaan berpikir, serta kemampuan untuk belajar dari kesalahan. | Belajar dari kegagalan seperti yang dijelaskan pada bagian 3 |
