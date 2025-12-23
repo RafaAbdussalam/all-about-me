@@ -1,5 +1,15 @@
-## UAS-3 My Opinions
+---
+title: "UAS-2 My Opinions"
+---
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+### Kritik terhadap Keterbatasan Sistem Pendidikan
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+Sistem pendidikan konvensional dirancang untuk terpusat dan seragam. Dalam menghadapi tantangan literasi global saat ini, pendekatan tersebut menunjukkan keterbatasan serius dalam hal skala dan kecepatan. Dengan ratusan juta orang dewasa yang masih buta huruf serta jutaan anak yang tidak bersekolah, ketergantungan pada pembangunan sekolah fisik dan pelatihan guru manusia tidak mampu menjawab kebutuhan yang bersifat mendesak dan masif.
+
+Keterbatasan ini semakin tampak di daerah di mana keadaan geografis serta infrastruktur membuat pendekatan berbasis institusi fisik sulit dijangkau. Sistem pembelajaran konvensional semacam ini tidak sepenuhnya keliru, namun tidak cukup adaptif dalam mengatasi kesenjangan literasi secara inklusif.
+
+### Bias Gender serta Urgensi Intervensi Teknologi
+
+Ketimpangan gender masih menjadi permasalahan utama dalam literasi global, dengan wanita mendominasi kelompok buta huruf. Hambatan sosial, keamanan, serta budaya kerap kali menghalangi akses wanita terhadap pembelajaran formal. Oleh sebab itu, intervensi teknologi menjadi penting sebagai sarana untuk memperluas akses belajar yang lebih fleksibel serta aman.
+
+*Artificial Intelligence* berperan sebagai alat strategis untuk menyediakan pembelajaran personal berskala besar, khususnya dalam penguatan literasi dan numerasi dasar. Meskipun bukan solusi tunggal, pemanfaatan AI dapat membantu mengurangi ketimpangan pendidikan yang berdampak pada kemiskinan dan kualitas hidup.

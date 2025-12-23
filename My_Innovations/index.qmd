@@ -1,1 +1,19 @@
-# UAS-3 My Innovations
+---
+title: "UAS-3 My Innovations"
+---
+
+Untuk mengatasi permasalahan akses dan kualitas pendidikan, saya mengusulkan beberapa inovasi yang memanfaatkan teknologi secara praktis dan terukur. Inovasi ini tidak bertujuan menggantikan sistem pendidikan formal, tetapi melengkapinya dengan solusi yang lebih fleksibel, adaptif, dan mudah diterapkan di kondisi nyata.
+
+Beberapa inovasi yang saya ajukan adalah sebagai berikut:
+
+### 1. Sistem Pembelajaran Berbasis Offline dengan Sinkronisasi Terbatas
+
+Materi pembelajaran dan model pembelajaran dasar disimpan secara lokal pada perangkat pengguna. Proses belajar dapat berjalan tanpa koneksi internet, sementara sinkronisasi data hanya dilakukan ketika jaringan tersedia. Pendekatan ini memungkinkan pembelajaran tetap berlangsung di wilayah dengan keterbatasan infrastruktur.
+
+### 2. Kurikulum Adaptif Berbasis Pembelajaran Mesin
+
+Sistem menggunakan algoritma *machine learning* sederhana untuk menyesuaikan materi dengan kemampuan pengguna. Penyesuaian dilakukan berdasarkan akurasi jawaban, waktu respons, dan pola kesalahan, sehingga setiap pengguna memiliki jalur belajar yang sesuai dengan kebutuhannya.
+
+### 3. Materi Kontekstual Berbasis Profil Pengguna
+
+Konten pembelajaran disesuaikan dengan latar belakang dan aktivitas pengguna, seperti pertanian, kesehatan keluarga, atau keterampilan dasar sehari-hari. Pendekatan ini meningkatkan relevansi materi dan membantu pengguna memahami manfaat langsung dari proses belajar.

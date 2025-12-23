@@ -1,6 +1,35 @@
-# UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
+---
+title: "UAS-1 My Concepts"
+---
 
-Apa itu berkonsep? 
+## My Masterpiece: Penerapan Sistem dan Teknologi Informasi di Era Artificial Intelligence
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+**Topik: Akses Pendidikan dan Melek Huruf**
+
+Permasalahan pembelajaran global saat ini sudah melampaui kekurangan infrastruktur, ini adalah krisis fundamental manusia. Informasi menunjukkan kenyataan yang mengkhawatirkan: kurang lebih 750 juta orang dewasa di seluruh dunia tidak bisa membaca ataupun menulis dengan baik. Jumlah ini setara dengan nyaris 10% populasi dunia, yang berarti satu dari 10 orang di dunia mengalami keterbatasan dalam mengakses pendidikan dan informasi dasar.
+
+Kasus ini diperparah oleh stagnasi akses dan keberlanjutan pendidikan. UNESCO mencatat bahwa pada tahun 2024, hampir 250 juta anak serta anak muda (umur 6-18 tahun) tidak bersekolah. Angka putus sekolah ini bertambah dibandingkan tahun-tahun sebelumnya, sebagian akibat pandemi COVID-19 yang mengacaukan aktivitas belajar secara global.
+
+### 6.1.1 Analisis saya terhadap permasalahan ini:
+
+* **Disparitas Gender dan Regional:**
+  * Mayoritas populasi buta huruf ialah perempuan, dengan kesenjangan wilayah yang masih besar, paling utama di Afrika Sub-Sahara, di mana tingkat melek huruf penduduk berumur masih terletak di bawah sepertiga dari total populasi.
+
+* **Dampak Sosial Ekonomi:**
+  * Rendahnya tingkat literasi membatasi akses terhadap pekerjaan, data, dan layanan dasar, sehingga mempersempit peluang kenaikan kesejahteraan individu.
+
+* **Siklus Kemiskinan:**
+  * Dalam skala nasional, keterbatasan pendidikan menghalangi produktivitas dan pertumbuhan ekonomi, sekaligus memperlebar ketimpangan, yang pada akhirnya mempertahankan siklus kemiskinan.
+
+### 6.1.2 Konsep Pemecahan: Decentralized AI Learning
+
+Konsep ini dirancang untuk mencapai sasaran **SDG 4: Quality Education** melalui 3 pilar inovasi:
+
+1. **Desentralisasi Akses Pembelajaran**
+   * Melalui platform digital, materi pendidikan dapat menjangkau peserta didik di bermacam lokasi, termasuk daerah terpencil dan wilayah dengan keterbatasan infrastruktur.
+
+2. **Personalisasi melalui AI Adaptif**
+   * Masing-masing peserta didik mengikuti jalur belajar yang disesuaikan dengan kemampuan dan progresnya masing-masing. Dengan memakai algoritma pembelajaran mesin, sistem secara dinamis menyesuaikan tingkat kesulitan dan penyampaian materi, sehingga proses belajar jadi lebih efektif.
+
+3. **Inklusivitas Berbasis Keterbatasan Teknologi**
+   * Platform dirancang supaya tetap dapat digunakan pada kondisi sumber daya yang terbatas. Pendekatan *offline-first* memungkinkan sistem berjalan pada perangkat berbiaya rendah dan koneksi internet yang tidak stabil. 

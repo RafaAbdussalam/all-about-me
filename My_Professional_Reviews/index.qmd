@@ -1,2 +1,76 @@
 ## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+ChatGPT melakukan self-assessment UAS-1 s.d. UAS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+
+# Hasil Self-Assessment UAS
+
+Peer Assessment : [Google Sheets](https://docs.google.com/spreadsheets/d/1k__L1Uy-ypmTN3m__wpPAYzPouQtxx3z/edit?usp=sharing&ouid=110892378776802188439&rtpof=true&sd=true)
+
+## Identifikasi
+
+* **Nama & NIM penulis:** Rafa Abdussalam Danadyaksa – 13523133  
+* **Penilai:** Self-Assessment menggunakan AI (Skor 2)  
+* **Cakupan:** Portofolio berisi halaman UAS-1 (*My Concepts*), UAS-2 (*My Opinions*), UAS-3 (*My Innovations*), UAS-4 (*My Knowledge*), dan UAS-5 (*My Professional Reviews*).
+
+---
+
+## Tinjauan Umum
+
+Karya UAS menampilkan refleksi diri yang konsisten dan naratif.  
+UAS-1 menunjukkan , UAS-2 menghubungkan , UAS-3 menggambarkan , UAS-4 , sedangkan UAS-5 menilai kembali proses tersebut secara kritis.
+
+---
+
+## Tinjauan Spesifik + Skor (1 – 5)
+
+### **UAS-1 — My Concepts**
+| Kriteria | Deskripsi | Skor |
+|-----------|------------|------|
+|  | |  |
+|  | | |
+|  | |  |
+|  | |  |
+| **Total** |  | ** / 20 ( %)** |
+
+
+### **UAS-2 — My Opinions**
+| Kriteria | Deskripsi | Skor |
+|-----------|------------|------|
+|  | |  |
+|  | | |
+|  | |  |
+|  | |  |
+| **Total** |  | ** / 20 ( %)** |
+
+
+### **UAS-3 — My Innovations**
+| Kriteria | Deskripsi | Skor |
+|-----------|------------|------|
+|  | |  |
+|  | | |
+|  | |  |
+|  | |  |
+| **Total** |  | ** / 20 ( %)** |
+
+
+### **UAS-4 — My Knowledge**
+| Kriteria | Deskripsi | Skor |
+|-----------|------------|------|
+|  | |  |
+|  | | |
+|  | |  |
+|  | |  |
+| **Total** |  | ** / 20 ( %)** |
+
+---
+
+## **Rekap Skor Ringkas**
+
+| UAS | Total | Persentase |
+|------|--------|-------------|
+| UAS-1 |  / 20 | 95 % |
+| UAS-2 |  / 20 | 85 % |
+| UAS-3 |  / 20 | 95 % |
+| UAS-4 |  / 20 | 95 % |
+| **Total Rata-rata ** |  | **≈  % (baik sekali untuk UAS 1-4)** |
+
+---

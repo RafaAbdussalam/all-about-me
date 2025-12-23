@@ -1,7 +1,23 @@
-## UAS-4 My Knowledge
+---
+title: "UAS-4 My Knowledge"
+---
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+## Basis Pengetahuan, Teori, dan Dampak Sistemik
+
+Rancangan inovasi pembelajaran yang saya ajukan didasarkan pada pemahaman hubungan antara pendidikan dasar, kesetaraan sosial, dan pembangunan jangka panjang. Pendidikan, khususnya literasi dan numerasi, berperan sebagai fondasi bagi peningkatan kualitas hidup individu dan kapasitas masyarakat secara keseluruhan.
+
+### 1. Teori Ekonomi Pendidikan
+
+Dalam ekonomi pembangunan, literasi dasar berkorelasi dengan peningkatan produktivitas, pendapatan, dan kondisi kesehatan. Oleh karena itu, peningkatan kemampuan membaca dan berhitung tidak hanya berdampak pada individu, tetapi juga berkontribusi secara bertahap terhadap pertumbuhan ekonomi dan pengurangan ketimpangan.
+
+### 2. Pengetahuan tentang Kesetaraan dan Gender
+
+Mayoritas populasi buta huruf secara global adalah perempuan, yang sering menghadapi hambatan sosial dan akses terhadap pendidikan formal. Sistem pembelajaran yang fleksibel dan dapat diakses dari rumah berpotensi mengurangi hambatan tersebut, serta mendukung pemberdayaan perempuan melalui materi yang relevan dengan kebutuhan sehari-hari.
+
+### 3. Pemahaman terhadap SDG 4 (Quality Education)
+
+Target **SDG 4** menekankan pendidikan yang inklusif dan merata. Dalam konteks jumlah anak putus sekolah yang sangat besar, pendekatan konvensional sulit menjangkau semua kelompok secara simultan. Teknologi pembelajaran digital berperan sebagai alat pendukung untuk memperluas jangkauan pendidikan dasar secara lebih cepat dan efisien.
+
+### 4. Pembelajaran Adaptif
+
+Inovasi ini menerapkan prinsip *scaffolding* dalam teori belajar Vygotsky, di mana dukungan diberikan sesuai tingkat kemampuan peserta didik. Dengan bantuan algoritma adaptif, tingkat bantuan dan kesulitan materi disesuaikan secara bertahap seiring meningkatnya kompetensi pengguna.
