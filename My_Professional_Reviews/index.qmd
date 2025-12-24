@@ -1,5 +1,4 @@
-## UAS-5 My Professional Reviews
-ChatGPT melakukan self-assessment UAS-1 s.d. UAS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+## UAS-5 My Professional Reviews.
 
 # Hasil Self-Assessment UAS
 
@@ -25,41 +24,41 @@ UAS-1 menunjukkan , UAS-2 menghubungkan , UAS-3 menggambarkan , UAS-4 , sedangka
 ### **UAS-1 — My Concepts**
 | Kriteria | Deskripsi | Skor |
 |-----------|------------|------|
-|  | |  |
-|  | | |
-|  | |  |
-|  | |  |
-| **Total** |  | ** / 20 ( %)** |
+| Clarity | Konsep disampaikan dengan sangat jelas dan terstruktur. Bahasa non-teknis dan analogi yang digunakan efektif menjembatani pemahaman audiens umum tanpa menimbulkan ambiguitas. | 5 |
+| Logic | Alur penalaran logis dan koheren dari definisi menuju contoh dan implikasi. Struktur argumentasi konsisten dan mudah diikuti. | 4 |
+| Validity | Konsep didukung oleh penalaran yang kuat dan contoh yang relevan, meskipun masih dapat diperkaya dengan rujukan eksplisit. | 4 |
+| Usefulness | Konsep memiliki kegunaan praktis yang jelas sebagai kerangka berpikir publik dalam memahami dan menyikapi persoalan sehari-hari | 4 |
+| **Total** |  | ** 17 / 20 ( 85%)** |
 
 
 ### **UAS-2 — My Opinions**
 | Kriteria | Deskripsi | Skor |
 |-----------|------------|------|
-|  | |  |
-|  | | |
-|  | |  |
-|  | |  |
-| **Total** |  | ** / 20 ( %)** |
+| Compelling | Opini sangat menarik sejak paragraf awal dan mampu mempertahankan perhatian pembaca melalui ilustrasi yang relevan dan reflektif. | 5 |
+| Informative | Informasi yang disajikan cukup kaya dan kontekstual, memberikan wawasan yang bermakna bagi pembaca. | 4 |
+| Persuasive | Argumen disusun secara logis dan koheren, cukup kuat untuk membentuk sudut pandang pembaca. | 4 |
+| Engaging | Tulisan melibatkan pembaca secara emosional dan intelektual, mendorong refleksi pribadi dan sosial. | 5 |
+| **Total** |  | **18 / 20 ( 90%)** |
 
 
 ### **UAS-3 — My Innovations**
 | Kriteria | Deskripsi | Skor |
 |-----------|------------|------|
-|  | |  |
-|  | | |
-|  | |  |
-|  | |  |
-| **Total** |  | ** / 20 ( %)** |
+| Originality | Inovasi disajikan sebagai pendekatan dan pola pikir yang kontekstual dan relevan, bukan sekadar pengulangan gagasan umum. | 4 |
+| Relevance | Ide sangat relevan dengan kebutuhan komunikasi publik dan pengembangan kapasitas individu di era digital | 5 |
+| Clarity of Idea | Gagasan utama disampaikan dengan jelas dan dapat dipahami audiens luas. | 4 |
+| Impact Potential | Inovasi memiliki potensi dampak positif yang nyata dalam meningkatkan efektivitas berpikir dan bertindak. | 4 |
+| **Total** |  | ** 17 / 20 ( 85%)** |
 
 
 ### **UAS-4 — My Knowledge**
 | Kriteria | Deskripsi | Skor |
 |-----------|------------|------|
-|  | |  |
-|  | | |
-|  | |  |
-|  | |  |
-| **Total** |  | ** / 20 ( %)** |
+| Clarity | Pengetahuan disampaikan dengan sangat jelas, sistematis, dan ramah bagi masyarakat umum. | 5 |
+| Depth | Materi cukup mendalam untuk membangun pemahaman konseptual yang bermakna | 4 |
+| Accuracy & Relevance | Informasi akurat dan relevan dengan konteks pembelajaran serta kebutuhan audiens. | 4 |
+| Educational Value | Memberikan nilai edukatif yang kuat dan mendorong pembelajaran mandiri. | 4 |
+| **Total** |  | ** 17/ 20 ( 85%)** |
 
 ---
 
@@ -67,10 +66,10 @@ UAS-1 menunjukkan , UAS-2 menghubungkan , UAS-3 menggambarkan , UAS-4 , sedangka
 
 | UAS | Total | Persentase |
 |------|--------|-------------|
-| UAS-1 |  / 20 | 95 % |
-| UAS-2 |  / 20 | 85 % |
-| UAS-3 |  / 20 | 95 % |
-| UAS-4 |  / 20 | 95 % |
-| **Total Rata-rata ** |  | **≈  % (baik sekali untuk UAS 1-4)** |
+| UAS-1 |  17/ 20 | 85 % |
+| UAS-2 | 18 / 20 | 90 % |
+| UAS-3 | 17 / 20 | 85 % |
+| UAS-4 |  17/ 20 | 85 % |
+| **Total Rata-rata ** |  | **≈  86,25% (baik sekali untuk UAS 1-4)** |
 
 ---
